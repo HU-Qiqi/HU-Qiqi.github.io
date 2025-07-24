@@ -26,8 +26,8 @@ My research interests mainly include **trustworthy in diffusion models and conte
 
 
 # 📖 Educations
-- *2019.09 – 2022.06*, Tsinghua University, M.E. in Shenzhen International Graduate School.
-- *2015.09 - 2019.06*, Qingdao University, B.E. in School of Computer Science and Technology.
+- *2023.09 – present*, Tsinghua University, M.E. in Shenzhen International Graduate School.
+- *2019.09 - 2023.06*, Qingdao University, B.E. in School of Computer Science and Technology.
 
 <!-- # 📝 Featured Publications
 TODO -->
@@ -37,27 +37,16 @@ TODO -->
 
 
 # 🎖 Awards
-- Best Research Performance Award, HKBU 2024.05.
-- Research Excellence Award, HKBU 2023.11.
-- Excellent Postgraduate, Wuhan University 2020.
-- 2nd Prize Excellent Academic Scholarship, Wuhan University 2020.
-- Meritorious Winner (9\%), The Interdisciplinary Contest in Modeling 2018.
-- Excellent Student, Wuhan University 2016 & 2017.
-- 3rd Prize Scholarship, Wuhan University 2016 & 2017.
+ - First Prize in Qingdao University Mathematical Modeling Competition, 2021.
+ - Second Prize in MathorCup Mathematical Modeling Competition, 2021.
+ - Honorable Mention Award (International Second Prize) in American Mathematical Modeling Competition for Undergraduates, 2021;
+ - Second Prize in Asia-Pacific Mathematical Modeling Competition,2020.
 
 
 <!--💬 Talks
-- *2024.06*, Youth PhD Talk on Trustworthy Machine Learning @AI Time, Online.
-[[Video]](https://www.bilibili.com/video/BV1ag4y1Q7ye/?t=7945)-->
 
 # 💻 Services
-- Conference Reviewer for ICML (22-24), NeurIPS (22-24), ICLR (22-24), MM 24.
-- Journal Reviewer for TMLR, TNNLS, JAIR.
-
-# 🏫 Teaching
-- *2024 Spring*, TA for CS308: Computer Vision, SusTech.
-- *2023 Fall*, TA for CS205: C/C++ Program Design, SusTech.
-- *2019 Fall*, TA for Fundamentals of circuit and electronics, WHU.
+- Journal Reviewer for JCS.
 
 # 📖 Experiences
 - *2021.05 - 2021.12*, Internship @Horizon Robotics, focusing on self-supervised learning related to object detection.
