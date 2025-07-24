@@ -29,10 +29,8 @@ My research interests mainly include **trustworthy in diffusion models and conte
 - *2023.09 – present*, Tsinghua University, M.E. in Shenzhen International Graduate School.
 - *2019.09 - 2023.06*, Qingdao University, B.E. in School of Computer Science and Technology.
 
-<!-- # 📝 Featured Publications
-TODO -->
 
-# 📝 Publications
+# 📝 Programs
 ✉️ Corresponding author.
 
 
