@@ -39,7 +39,7 @@ TODO -->
 # 🎖 Awards
  - First Prize in Qingdao University Mathematical Modeling Competition, 2021.
  - Second Prize in MathorCup Mathematical Modeling Competition, 2021.
- - Honorable Mention Award (International Second Prize) in American Mathematical Modeling Competition for Undergraduates, 2021;
+ - Honorable Mention Award in American Mathematical Modeling Competition for Undergraduates, 2021;
  - Second Prize in Asia-Pacific Mathematical Modeling Competition,2020.
 
 
@@ -49,7 +49,8 @@ TODO -->
 - Journal Reviewer for JCS.
 
 # 📖 Experiences
-- *2021.05 - 2021.12*, Internship @Horizon Robotics, focusing on self-supervised learning related to object detection.
+- *2021.01 - 2021.11*, Intership in Qingdao University, focusing on secure outsourcing computation and privacy preserving.
+- *2024.01 - 2024.12*, Internship @SUSTech, focusing on trustworthy in diffusion models and content security in AIGC.
 
   
 <!-- <div align=center> -->
