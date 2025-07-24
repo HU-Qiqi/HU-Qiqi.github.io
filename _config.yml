@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "China"
 site_theme               : "default"
-title                    : "Qiqi Hu 胡齐齐"
+title                    : "Qiqi Hu"
 title_separator          : "-"
 name                     : &name "Qiqi Hu"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   avatar           : "1.2.jpg"
   name             : "Qiqi Hu"
   pronouns         : # "she/her"  
-  bio              : "Master in Tsinghua University;"
+  bio              : # "Master in Tsinghua University;"
   location         : "Shenzhen"
   employer         : "Tsinghua University"
   uri              : # URL
