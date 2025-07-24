@@ -42,8 +42,6 @@ My research interests mainly include **trustworthy in diffusion models and conte
  - Second Prize in Asia-Pacific Mathematical Modeling Competition,2020.
 
 
-<!--💬 Talks
-
 # 💻 Services
 - Journal Reviewer for JCS.
 
