@@ -35,7 +35,7 @@ My research interests mainly include **trustworthy diffusion models and content 
 
 
 # 🎖 Awards
- - Innovation and Entrepreneurship Project for Undergraduate Students in Shandong Province,2021.
+ - Innovation and Entrepreneurship Project for Undergraduate Students in Shandong Province, 2021.
  - First Prize in Qingdao University Mathematical Modeling Competition, 2021.
  - Second Prize in MathorCup Mathematical Modeling Competition, 2021.
  - Honorable Mention Award in American Mathematical Modeling Competition for Undergraduates, 2021;
