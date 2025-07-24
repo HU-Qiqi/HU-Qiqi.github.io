@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Qiqi Hu, a master student at Guangdong Provincial Key Laboratory of Thermal Management Engineering and Materials in Shenzhen Intrnational Graduate School, Tsinghua University, advised by [Prof. Hongda Du](https://www.sigs.tsinghua.edu.cn/dhd/list.htm). I am also a visiting student in Southern University of Science and Technology, advised by [Prof. Feng Zheng](https://faculty.sustech.edu.cn/?tagid=fengzheng&iscss=1&snapid=1&orderby=date&go=1&lang=en).  Before that, I got my undergraduate degree from Qingdao University of School of Computer Science and Technology, and fortunately supervised by [Prof. Hanlin Zhang](https://cst.qdu.edu.cn/info/1072/7423.htm).
+Hi, I am Qiqi Hu (胡齐齐), a master student at Guangdong Provincial Key Laboratory of Thermal Management Engineering and Materials in Shenzhen Intrnational Graduate School, Tsinghua University, advised by [Prof. Hongda Du](https://www.sigs.tsinghua.edu.cn/dhd/list.htm). I am also a visiting student in Southern University of Science and Technology, advised by [Prof. Feng Zheng](https://faculty.sustech.edu.cn/?tagid=fengzheng&iscss=1&snapid=1&orderby=date&go=1&lang=en).  Before that, I got my undergraduate degree from Qingdao University of School of Computer Science and Technology, and fortunately supervised by [Prof. Hanlin Zhang](https://cst.qdu.edu.cn/info/1072/7423.htm).
 
 My research interests mainly include **trustworthy diffusion models and content security in AIGC**.
 
