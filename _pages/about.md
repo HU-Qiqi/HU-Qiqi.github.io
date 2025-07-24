@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Qiqi Hu, a master student at Themal management Group in Shenzhen Intrnational Graduate School, Tsinghua University, advised by [Dr. Hongda Du](https://www.sigs.tsinghua.edu.cn/dhd/list.htm), I am also a visiting student in Southern University of Science and Technology, advised by [Prof. Feng Zheng](https://faculty.sustech.edu.cn/?tagid=fengzheng&iscss=1&snapid=1&orderby=date&go=1&lang=en). 
+Hi, I am Qiqi Hu, a master student at Themal management Group in Shenzhen Intrnational Graduate School, Tsinghua University, advised by [Prof. Hongda Du](https://www.sigs.tsinghua.edu.cn/dhd/list.htm), I am also a visiting student in Southern University of Science and Technology, advised by [Prof. Feng Zheng](https://faculty.sustech.edu.cn/?tagid=fengzheng&iscss=1&snapid=1&orderby=date&go=1&lang=en).  Before that, I got my undergraduate degree from Qingdao University of School of Computer Science and Technology, and fortunately supervised by [Prof.Hanlin Zhang].(https://cst.qdu.edu.cn/info/1072/7423.htm).
 
 My research interests mainly include **trustworthy in diffusion models and content security in AIGC**.
 
@@ -53,9 +53,3 @@ TODO -->
 - *2024.01 - 2024.12*, Internship @SUSTech, focusing on trustworthy in diffusion models and content security in AIGC.
 
   
-<!-- <div align=center> -->
-<!-- <a href='https://clustrmaps.com/site/1byjf'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=080808&w=400&t=tt&d=EuVM39DBt0G0cQJh20EJFBL7BHU5A5hzsTXUdCbe7Ic&co=ffffff&ct=808080'/></a> -->
-<!--<a href='https://clustrmaps.com/site/1byjf'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=080808&w=a&t=m&d=EuVM39DBt0G0cQJh20EJFBL7BHU5A5hzsTXUdCbe7Ic&co=ffffff&ct=808080'/></a>-->
-<!-- <a href="https://clustrmaps.com/site/1bztd" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=9WmKAuGZx-jp_Cqemh_qyo-Fhw-l77tju_9bukYAC-o&cl=ffffff"></a> -->
-<a href="https://clustrmaps.com/site/1c0ca"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=tlKeZ27YxZNVwB1x4CMdRUy1VkNAOJoPq-lwS9qFggI&cl=ffffff" /></a>
-<!-- </div> -->
