@@ -18,7 +18,7 @@ redirect_from:
 
 Hi, I am Qiqi Hu, a master student at Guangdong Provincial Key Laboratory of Thermal Management Engineering and Materials in Shenzhen Intrnational Graduate School, Tsinghua University, advised by [Prof. Hongda Du](https://www.sigs.tsinghua.edu.cn/dhd/list.htm). I am also a visiting student in Southern University of Science and Technology, advised by [Prof. Feng Zheng](https://faculty.sustech.edu.cn/?tagid=fengzheng&iscss=1&snapid=1&orderby=date&go=1&lang=en).  Before that, I got my undergraduate degree from Qingdao University of School of Computer Science and Technology, and fortunately supervised by [Prof. Hanlin Zhang](https://cst.qdu.edu.cn/info/1072/7423.htm).
 
-My research interests mainly include **trustworthy in diffusion models and content security in AIGC**.
+My research interests mainly include **trustworthy diffusion models and content security in AIGC**.
 
 *Please feel free to [email me](mailto:chelseyhu111@gmail.com) for research, collaborations, or a casual chat.* 
 
@@ -47,6 +47,6 @@ My research interests mainly include **trustworthy in diffusion models and conte
 
 # 📖 Experiences
 - *2021.01 - 2021.11*, Intership in Qingdao University, focusing on secure outsourcing computation and privacy preserving.
-- *2024.01 - 2024.12*, Internship @SUSTech, focusing on trustworthy in diffusion models and content security in AIGC.
+- *2024.01 - 2024.12*, Internship @SUSTech, focusing on trustworthy diffusion models and content security in AIGC.
 
   
