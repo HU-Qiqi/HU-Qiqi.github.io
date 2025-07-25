@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hu-qiqi.github.io/sitemap.xml
