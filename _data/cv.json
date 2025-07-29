@@ -1,69 +1,73 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Qiqi Hu",
+    "email": "chelseyhu111@gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://hu-qiqi.github.io",
+    "summary": "Currently study at Tsinghua University.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Shenzhen",
+      "countryCode": "China",
       "region": ""
     },
     "profiles": [
-      {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
+     // {
+       // "network": "Google Scholar",
+        //"username": "",
+        //"url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+      //},
       {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/my-orcid?orcid=0009-0000-0039-6461"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "HU-Qiqi",
+        "url": "https://github.com/HU-Qiqi"
       }
     ]
   },
   "work": [],
   "education": [
+    //{
+    //  "institution": "Tsinghua University",
+    //  "area": "Ph.D in Version Control Theory",
+    //  "studyType": "",
+    //  "startDate": "",
+    //  "endDate": "2018",
+    //  "gpa": null,
+    //  "courses": []
+    // },
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Tsinghua University",
+      "area": "M.S. in engineering",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "2026",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Qingdao University",
+      "area": "B.S. in Information Security",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "endDate": "2023",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
+  "programming languages": [Python, Matlab, Latex, C],
+  "framework": [Pytorch, Tensorflow (for deep learning), Sklearn (for machine learning)],
+  "tools": [Linux, VSCode, Anaconda, Office],
+  "languages": [Chinese (native), English],
   "interests": [],
   "references": [],
+
+  /*
   "publications": [
     {
       "name": "Paper Title Number 1",
@@ -149,4 +153,7 @@
       "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
     }
   ]
+
+
+  */
 }
