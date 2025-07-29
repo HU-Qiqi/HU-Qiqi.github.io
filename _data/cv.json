@@ -45,8 +45,8 @@
       "courses": []
     }
   ],
-  "programming languages": [Python, Matlab, Latex, C],
-  "framework": ["Pytorch", "Tensorflow (for deep learning)", "Sklearn (for machine learning)"],
+  "programming languages": ["Python", "Matlab", "Latex", "C"],
+  "framework": ["Pytorch, Tensorflow (for deep learning)", "Sklearn (for machine learning)"],
   "tools": ["Linux", "VSCode", "Anaconda", "Office"],
   "languages": ["Chinese (native)", "English"],
   "interests": [],
@@ -60,27 +60,6 @@
       "releaseDate": "2009-10-01",
       "website": "http://academicpages.github.io/files/paper1.pdf",
       "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
     }
   ],
   "presentations": [
@@ -90,14 +69,7 @@
       "date": "2012-03-01",
       "location": "San Francisco, CA, USA",
       "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
+    }
   ],
   "teaching": [
     {
@@ -106,8 +78,7 @@
       "date": "2014-01-01",
       "role": "Undergraduate course",
       "description": ""
-    },
-
-  ],
+    }
+  ]
 
 }
