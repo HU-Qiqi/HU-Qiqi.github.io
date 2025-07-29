@@ -33,7 +33,7 @@ Skills
 * Programming Language
   * Python, Matlab, Latex, C
 * Framework
-  * Pytorch, Tensorflow (for deep learning), Sklearn (for machine learning)
+  * PyTorch, Tensorflow (for deep learning), Sklearn (for machine learning)
 * Tools
   * Linux, VSCode, Anaconda, Office
 * Language
