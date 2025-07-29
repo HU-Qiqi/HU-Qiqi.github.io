@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Engineering, Tsinghua University, 2023-present
-* B.S. in Information Security, Qingdao University, 2019-2023
+* M.S. in Engineering, Tsinghua University, 2023 - present
+* B.S. in Information Security, Qingdao University, 2019 - 2023
 
 Work experience
 ======
