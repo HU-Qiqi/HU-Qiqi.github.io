@@ -2,7 +2,6 @@
   "basics": {
     "name": "Qiqi Hu",
     "email": "chelseyhu111@gmail.com",
-    "phone": "",
     "website": "https://hu-qiqi.github.io",
     "summary": "Currently study at Tsinghua University.",
     "location": {
@@ -14,14 +13,14 @@
     },
     "profiles": [
       {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/my-orcid?orcid=0009-0000-0039-6461"
-      },
-      {
         "network": "GitHub",
         "username": "HU-Qiqi",
         "url": "https://github.com/HU-Qiqi"
+      },
+      {
+        "network": "ORCID",
+        "username": "",
+        "url": "https://orcid.org/my-orcid?orcid=0009-0000-0039-6461"
       }
     ]
   },
@@ -46,7 +45,7 @@
       "courses": []
     }
   ],
-  "programming languages": ["Python", "Matlab", "Latex", "C"],
+  "programming languages": [Python, Matlab, Latex, C],
   "framework": ["Pytorch", "Tensorflow (for deep learning)", "Sklearn (for machine learning)"],
   "tools": ["Linux", "VSCode", "Anaconda", "Office"],
   "languages": ["Chinese (native)", "English"],
