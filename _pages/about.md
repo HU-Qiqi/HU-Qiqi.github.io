@@ -31,10 +31,6 @@ Please feel free to [email me](mailto:chelseyhu111@gmail.com) for research, coll
 - *2019.09 - 2023.06*, Qingdao University, B.E. in School of Computer Science and Technology.
 
 
-# 📝 Programs
-✉️ Corresponding author.
-
-
 # 🎖 Awards
  - Innovation and Entrepreneurship Project for Undergraduate Students in Shandong Province, 2021.
  - First Prize in Qingdao University Mathematical Modeling Competition, 2021.
@@ -46,7 +42,7 @@ Please feel free to [email me](mailto:chelseyhu111@gmail.com) for research, coll
 # 💻 Services
 - Journal Reviewer for JCS.
 
-# 📖 Experiences
+# 📝 Experiences
 - *2021.01 - 2021.11*, Intership in Qingdao University, focusing on secure outsourcing computation and privacy preserving.
 - *2024.01 - 2024.12*, Internship @SUSTech, focusing on trustworthy diffusion models and content security in AIGC.
 
