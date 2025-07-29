@@ -3,7 +3,7 @@
     "name": "Qiqi Hu",
     "email": "chelseyhu111@gmail.com",
     "website": "https://hu-qiqi.github.io",
-    "summary": "Currently study at Tsinghua University.",
+    "summary": "Currently study as a master at Tsinghua University.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -45,6 +45,7 @@
       "courses": []
     }
   ],
+  
   "programming languages": ["Python", "Matlab", "Latex", "C"],
   "framework": ["Pytorch, Tensorflow (for deep learning)", "Sklearn (for machine learning)"],
   "tools": ["Linux", "VSCode", "Anaconda", "Office"],
