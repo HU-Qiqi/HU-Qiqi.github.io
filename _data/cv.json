@@ -13,11 +13,6 @@
       "region": ""
     },
     "profiles": [
-     // {
-       // "network": "Google Scholar",
-        //"username": "",
-        //"url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      //},
       {
         "network": "ORCID",
         "username": "",
@@ -32,15 +27,6 @@
   },
   "work": [],
   "education": [
-    //{
-    //  "institution": "Tsinghua University",
-    //  "area": "Ph.D in Version Control Theory",
-    //  "studyType": "",
-    //  "startDate": "",
-    //  "endDate": "2018",
-    //  "gpa": null,
-    //  "courses": []
-    // },
     {
       "institution": "Tsinghua University",
       "area": "M.S. in engineering",
@@ -60,10 +46,10 @@
       "courses": []
     }
   ],
-  "programming languages": [Python, Matlab, Latex, C],
-  "framework": [Pytorch, Tensorflow (for deep learning), Sklearn (for machine learning)],
-  "tools": [Linux, VSCode, Anaconda, Office],
-  "languages": [Chinese (native), English],
+  "programming languages": ["Python", "Matlab", "Latex", "C"],
+  "framework": ["Pytorch", "Tensorflow (for deep learning)", "Sklearn (for machine learning)"],
+  "tools": ["Linux", "VSCode", "Anaconda", "Office"],
+  "languages": ["Chinese (native)", "English"],
   "interests": [],
   "references": [],
 
