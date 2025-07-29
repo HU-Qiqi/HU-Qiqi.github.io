@@ -16,29 +16,27 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024.01 - 2024.12: Intership
+  * Southern University of Science and Technology
+  * Focus: Trustworthy diffusion models and content security in AIGC
+  * Supervisor: Professor Feng Zheng
 
-* Fall 2015: Research Assistant
-  * GitHub University
+* 2021.01 - 2021.11: Intership
+  * Qingdao University
+  * Focus: Secure outsourcing computation and privacy preserving
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+  * Supervisor: Professor Hanlin Zhang
+    
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Language
+  * Python, Matlab, Latex, C
+* Framework
+  * Pytorch, Tensorflow (for deep learning), Sklearn (for machine learning)
+* Tools
+  * Linux, VSCode, Anaconda, Office
+* Language
+  * Chinese (Native), English
 
 Publications
 ======
