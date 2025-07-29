@@ -37,8 +37,3 @@ Skills
 * Language
   * Chinese (Native), English
 
-Publications
-======
-
-Service and leadership
-======
