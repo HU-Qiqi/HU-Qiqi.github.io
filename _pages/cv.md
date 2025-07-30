@@ -26,7 +26,13 @@ Work experience
   * Focus on: Secure outsourcing computation and privacy preserving
   * Supervisor: [Professor Hanlin Zhang(张翰林)](https://cst.qdu.edu.cn/info/1072/7423.htm)
 
-
+Awards
+=====
+* Innovation and Entrepreneurship Project for Undergraduate Students in Shandong Province, 2021.
+* First Prize in Qingdao University Mathematical Modeling Competition, 2021.
+* Second Prize in MathorCup Mathematical Modeling Competition, 2021.
+* Honorable Mention Award in American Mathematical Modeling Competition for Undergraduates, 2021;
+* Second Prize in Asia-Pacific Mathematical Modeling Competition,2020.
   
 Skills
 ======
