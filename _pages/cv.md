@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* 2024.03 - 2024.12: Intership
+* 2024.03 - 2024.12: Internship
   * Southern University of Science and Technology
   * Focus on: Trustworthy diffusion models and content security in AIGC
   * Supervisor: [Professor Feng Zheng(郑锋)](https://faculty.sustech.edu.cn/?tagid=fengzheng&iscss=1&snapid=1&orderby=date&go=1&lang=en)
