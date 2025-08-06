@@ -33,7 +33,7 @@ Please feel free to [email me](mailto:chelseyhu111@gmail.com) for research, coll
 
 # 🎖 Awards
  - Star of Qingdao University, 2023.
- - Academic Improvement Scholarship of Qingdao University, 2022.
+ - Academic Improvement Scholarship, Qingdao University, 2022.
  - Innovation and Entrepreneurship Project for Undergraduate Students in Shandong Province, 2021.
  - First Prize in Qingdao University Mathematical Modeling Competition, 2021.
  - Second Prize in MathorCup Mathematical Modeling Competition, 2021.
