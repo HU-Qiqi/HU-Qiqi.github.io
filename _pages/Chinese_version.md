@@ -11,8 +11,8 @@ redirect_from:
 
 {% include base_path %}
 
-
-# 🏫 个人简介
+# 简介
+## 🏫 个人情况
 嗨，我是胡齐齐，清华大学深圳国际研究生院的硕士研究生，在[杜鸿达教授](https://www.sigs.tsinghua.edu.cn/dhd/list.htm)领导的广东省热管理工程与材料重点实验室工作。
 我曾在南方科技大学[郑锋教授](https://faculty.sustech.edu.cn/?tagid=fengzheng&iscss=1&snapid=1&orderby=date&go=2)领导的视觉智能课题组进行访学交流。
 在此之前，本科阶段，我毕业于青岛大学计算机科学技术学院，并有幸师从[张翰林教授](https://cst.qdu.edu.cn/info/1072/7423.htm)。
@@ -22,12 +22,12 @@ redirect_from:
 欢迎通过[邮件](mailto:chelseyhu111@gmail.com)联系我，无论是学术研究、合作，还是随意交流！
 
 
-# 📖 教育背景
+## 📖 教育背景
 - 工学硕士：2023年至今， 就读于清华大学，深圳国际研究生院
 - 本科：2019-2023年， 就读于青岛大学， 计算机科学技术学院
 
 
-# 🎖 主要荣誉
+## 🎖 主要荣誉
  - 2023年获“青大之星”荣誉称号
  - 2022年获青岛大学优秀学业进步奖
  - 2021年主持山东省省级大学生创新创业项目
@@ -39,7 +39,7 @@ redirect_from:
   
 
 
-# 💻 服务
+## 💻 服务
 - Journal of Computer Security (JCS) 审稿人
 
 # 📝 研究经历
