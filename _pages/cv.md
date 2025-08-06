@@ -29,13 +29,13 @@ Work experience
 Awards
 ======
 * Star of Qingdao University, 2023.
-* Academic Improvement Scholarship of Qingdao University, 2022.
+* Academic Improvement Scholarship, Qingdao University, 2022.
 * Innovation and Entrepreneurship Project for Undergraduate Students in Shandong Province, 2021.
 * First Prize in Qingdao University Mathematical Modeling Competition, 2021.
 * Second Prize in MathorCup Mathematical Modeling Competition, 2021.
 * Honorable Mention Award in Mathematical Contest in Modeling, 2021.
 * Second Prize in Asia-Pacific Mathematical Modeling Competition,2020.
-* Second-class scholarship of Qingdao University, 2020.
+* Second Prize Excellent Academic Scholarship, Qingdao University, 2020.
   
 Skills
 ======
