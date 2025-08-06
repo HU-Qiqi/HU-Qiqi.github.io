@@ -39,7 +39,8 @@ Please feel free to [email me](mailto:chelseyhu111@gmail.com) for research, coll
  - Second Prize in MathorCup Mathematical Modeling Competition, 2021.
  - Honorable Mention Award in Mathematical Contest in Modeling, 2021.
  - Second Prize in Asia-Pacific Mathematical Modeling Competition,2020.
- - Second-class scholarship of Qingdao University, 2020.
+ - Second Prize Excellent Academic Scholarship, Qingdao University, 2020.
+  
 
 
 # 💻 Services
