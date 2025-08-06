@@ -14,8 +14,8 @@ redirect_from:
 
 
 # 🏫 个人简介
-嗨，我是胡齐齐，清华大学深圳国际研究生院（广东省热管理工程与材料重点实验室）的硕士研究生，导师为[杜鸿达教授](https://www.sigs.tsinghua.edu.cn/dhd/list.htm)。
-我曾在南方科技大学进行访学交流，受[郑锋教授](https://faculty.sustech.edu.cn/?tagid=fengzheng&iscss=1&snapid=1&orderby=date&go=1&lang=en)指导。
+嗨，我是胡齐齐，清华大学深圳国际研究生院的硕士研究生，在[杜鸿达教授](https://www.sigs.tsinghua.edu.cn/dhd/list.htm)领导的广东省热管理工程与材料重点实验室工作。
+我曾在南方科技大学[郑锋教授](https://faculty.sustech.edu.cn/?tagid=fengzheng&iscss=1&snapid=1&orderby=date&go=2)领导的视觉智能课题组进行访学交流。
 在此之前，本科阶段，我毕业于青岛大学计算机科学技术学院，并有幸师从[张翰林教授](https://cst.qdu.edu.cn/info/1072/7423.htm)。
 
 我的研究方向主要包括 **生成式人工智能中的可信扩散模型与内容安全**。
