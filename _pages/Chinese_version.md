@@ -39,7 +39,7 @@ redirect_from:
 
 
 # 💻 服务
-- JCS审稿人
+- Journal of Computer Security (JCS) 审稿人
 
 # 📝 研究经历
 - *2021.01 - 2021.11*, 实习，青岛大学, 研究方向为隐私保护和安全外包计算
