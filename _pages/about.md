@@ -31,7 +31,7 @@ Please feel free to [email me](mailto:chelseyhu111@gmail.com) for research, coll
 - *2019.09 - 2023.06*, Qingdao University, B.E. in School of Computer Science and Technology.
 
 
-# 🎖 Awards
+# 🏆 Awards
  - Star of Qingdao University, 2023.
  - Academic Improvement Scholarship, Qingdao University, 2022.
  - Innovation and Entrepreneurship Project for Undergraduate Students in Shandong Province, 2021.
