@@ -4,9 +4,9 @@ title: ""
 permalink: /Chinese_version/
 author_profile: true
 redirect_from:
-  - /resume
+  - /about/
+  - /about.html
 ---
-
 
 
 {% include base_path %}
