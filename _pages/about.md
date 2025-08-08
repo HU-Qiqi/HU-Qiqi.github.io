@@ -32,7 +32,7 @@ Please feel free to [email me](mailto:chelseyhu111@gmail.com) for research, coll
 
 
 # 🏆 Honors & Awards
-- **Top Graduate (1st place)**, School of Computer Science, Qingdao University, Class of 2023  
+- **Top Graduate (1st place)**, School of Computer Science and Technology, Qingdao University, Class of 2023  
   *(Recognized in the university’s Annual Talent Development Report)*  
 - **Qingdao University Star Award (2023)** — Highest university-wide honor  
 - **Project Lead**, Shandong Provincial Innovation & Entrepreneurship Program (2021)  
