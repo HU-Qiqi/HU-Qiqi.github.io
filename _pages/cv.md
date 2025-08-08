@@ -26,16 +26,20 @@ Work experience
   * Focus on: Secure outsourcing computation and privacy preserving
   * Supervisor: [Professor Hanlin Zhang(张翰林)](https://cst.qdu.edu.cn/info/1072/7423.htm)
 
-Awards
+Honors & Awards
 ======
-* Star of Qingdao University, 2023.
-* Academic Improvement Scholarship, Qingdao University, 2022.
-* Innovation and Entrepreneurship Project for Undergraduate Students in Shandong Province, 2021.
-* First Prize in Mathematical Modeling Competition of Qingdao University, 2021.
-* Second Prize in MathorCup Mathematical Modeling Competition, 2021.
-* Honorable Mention Award in Mathematical Contest in Modeling, 2021.
-* Second Prize in Asia-Pacific Mathematical Modeling Competition,2020.
-* Second Prize Excellent Academic Scholarship, Qingdao University, 2020.
+- **Top Graduate (1st place)**, School of Computer Science and Technology, Qingdao University, Class of 2023  
+  *(Recognized in the university’s Annual Talent Development Report)*  
+- **Qingdao University Star Award (2023)** — Highest university-wide honor  
+- **Project Lead**, Shandong Provincial Innovation & Entrepreneurship Program (2021)  
+- **Mathematical Modeling Competitions:**  
+  - 2nd Prize, MathorCup National Competition (2021)  
+  - Honorable Mention, International Mathematical Contest in Modeling (MCM) (2021)  
+  - 1st Prize, Qingdao University Competition (2021)  
+  - 2nd Prize, Asia-Pacific Mathematical Modeling Competition (2020)  
+- Academic Progress Award, Qingdao University (2022)  
+- Second-Class Academic Scholarship, Qingdao University (2020)
+
   
 Skills
 ======
