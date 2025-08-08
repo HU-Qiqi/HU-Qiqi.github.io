@@ -29,7 +29,7 @@ Work experience
 Honors & Awards
 ======
 - **Top Graduate (1st place)**, School of Computer Science and Technology, Qingdao University, Class of 2023  
-  *(Recognized in the university’s Annual Talent Development Report)*  
+  *(Recognized in the School’s Annual Talent Development Report)*  
 - **Qingdao University Star Award (2023)** — Highest university-wide honor  
 - **Project Lead**, Shandong Provincial Innovation & Entrepreneurship Program (2021)  
 - **Mathematical Modeling Competitions:**  
