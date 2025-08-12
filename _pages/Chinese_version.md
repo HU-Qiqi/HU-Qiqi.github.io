@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Chinese version"
+title: ""
 permalink: /Chinese_version/
 author_profile: true
 redirect_from:
-  - /resume
+  - /about2
 ---
 
 
