@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Chinese version"
 permalink: /Chinese_version/
 author_profile: true
 redirect_from:
