@@ -48,7 +48,7 @@ Skills
 * Framework
   * PyTorch, Tensorflow (for deep learning), Sklearn (for machine learning)
 * Tools
-  * Linux, VSCode, Anaconda, Office
+  * Linux, VSCode, Anaconda, Office, COMSOL
 * Language
   * Chinese (Native), English
 
