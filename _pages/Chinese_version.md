@@ -16,7 +16,7 @@ redirect_from:
 我曾在南方科技大学[郑锋教授](https://faculty.sustech.edu.cn/?tagid=fengzheng&iscss=1&snapid=1&orderby=date&go=2)领导的视觉智能课题组进行访问交流。
 在此之前，本科阶段，我毕业于青岛大学计算机科学技术学院，并有幸被[张翰林教授](https://cst.qdu.edu.cn/info/1072/7423.htm)指导。
 
-我的研究方向主要包括 **生成式人工智能中的可信扩散模型与内容安全**。
+我的研究方向主要包括 **锂离子电池的热失控抑制、生成式人工智能中的可信扩散模型与内容安全**。
 
 欢迎通过[邮件](mailto:chelseyhu111@gmail.com)联系我，无论是学术研究、合作，还是随意交流！
 
