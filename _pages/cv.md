@@ -14,7 +14,7 @@ Education
 * M.S. in Engineering, Tsinghua University, 2023 - present
 * B.S. in Information Security, Qingdao University, 2019 - 2023
 
-Work experiences
+Work Experiences
 ======
 * 2024.03 - 2024.12: Internship
   * Southern University of Science and Technology
