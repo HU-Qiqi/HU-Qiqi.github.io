@@ -28,7 +28,7 @@ main:
     url: /cv/
 
   - title: "中文"
-    url: /Chinese_version/
+    url: /ch_index/
     
   #- title: "CV"
   #  url: /cv-json/
