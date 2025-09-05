@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /Chinese_version/
+permalink: /ch_index/
 author_profile: true
 redirect_from:
   - /about2
