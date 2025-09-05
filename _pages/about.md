@@ -49,8 +49,6 @@ Please feel free to [email me](mailto:chelseyhu111@gmail.com) for research, coll
 - **2025.09** – Initiated research on the mechanisms of immersion cooling for mitigating thermal runaway in lithium-ion batteries  
 - **2025.05** – Conducted research on the effects of PCM-coupled air cooling on thermal runaway propagation in lithium-ion batteries  
 - **2024.03** – Investigated copyright protection in image-to-image generation using diffusion models  
-- **2023.09** – Enrolled in the master's program (Environmental Science and New Energy Technology), Tsinghua University, Shenzhen International Graduate School
-
 
 
 # 🏆 Honors & Awards
