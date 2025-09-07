@@ -75,6 +75,8 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
+  uri: "https://sites.google.com/view/huqiqi"
+
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
@@ -354,5 +356,3 @@ compress_html:
   ignore:
     envs: development
 
-author:
-  uri: "https://sites.google.com/view/huqiqi"
