@@ -22,6 +22,7 @@ Hi, I am Qiqi Hu (胡齐齐), a master student at Guangdong Provincial Key Labor
 My research interests mainly include **thermal management for thermal runaway in LIBs, trustworthy diffusion models and content security in AIGC**.
 
 For a short summary CV, see my [Google Sites page](https://sites.google.com/view/huqiqi).
+
 Please feel free to [email me](mailto:chelseyhu111@gmail.com) for research, collaborations, or a casual chat.
 
 <!-- *Please consider giving me [anonymous feedback](https://docs.google.com/forms/d/e/1FAIpQLSeE4_y14QlUtJ8MhltnGnWwco7J1sWprXnlGoFWFo002k26lw/viewform?usp=sf_link).* -->
