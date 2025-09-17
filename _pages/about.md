@@ -72,7 +72,7 @@ Please feel free to [email me](mailto:chelseyhu111@gmail.com) for research, coll
 ## 💻 Services
 - Reviewer for Journal of Computer Security (JCS).
 
-# 📝 Experiences
+## 📝 Experiences
 - *2021.01 - 2021.11*, Internship in Qingdao University, focusing on secure outsourcing computation and privacy preserving.
 - *2024.01 - 2024.12*, Internship @SUSTech, focusing on trustworthy diffusion models and content security in AIGC.
 
